@@ -69,7 +69,7 @@ This port uses [Micropython infrastructure for C modules](https://docs.micropyth
 
 ```
 cd ports/rp2
-make USER_C_MODULES=../../lv_bindings/bindings.cmake
+make USER_C_MODULES=../../lib/lv_bindings/bindings.cmake
 ```
 
 ## Super Simple Example
